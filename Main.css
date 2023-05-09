@@ -1,0 +1,56 @@
+.div1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 49px;
+}
+.div2
+{
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 41px;
+    color: white;
+}
+.div3
+{
+    
+    margin: 0 auto;
+}
+.div4
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+#wwi
+{
+   background-color:#868686 !important;
+   
+}
+main
+{
+    background-color: #0B0B0B;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+footer
+{
+    background-color: #4A4A4A;
+    padding-top: 20px;
+
+}
+
+.div5
+{
+
+    color: white;
+}
+.div6
+{
+    margin-top: 100px;
+    margin-left: 15px;
+}
